@@ -1,0 +1,16 @@
+{
+  "name": "freemarker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:ide": "pnpm i && pnpm run dev",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "freemarker": "^2.0.1"
+  }
+}
